@@ -53,8 +53,13 @@ Includes input validation, random number generation, and replay option.
 
 ---
 
-## 📫 Contact
-📧 **yusif.huseynov.dev@gmail.com**  
-🌐 [GitHub Profile](https://github.com/yusif-hsynv)
+## 🌱 Currently Learning
+- Microservices Architecture  
+- Docker & Containerization  
+- Spring Security Advanced Features  
 
 ---
+
+## 🤝 Connect With Me
+📧 **Email:** [yusif.huseynov.dev@gmail.com](mailto:yusif.huseynov.dev@gmail.com)  
+💼 **GitHub:** [github.com/yusif-hsynv](https://github.com/yusif-hsynv)
