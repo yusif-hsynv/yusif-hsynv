@@ -1,5 +1,5 @@
-# 👋 Hi, I'm Yusif Hüseynov  
-**Java Developer | Spring Boot | REST APIs**
+# 🚀 Hi, I'm Yusif Hüseynov  
+**👨‍💻 Java Developer | Spring Boot | REST APIs ☕**
 
 💻 Passionate about backend development and creating clean, scalable applications using Java and Spring Boot.  
 🚀 Currently building projects with **Spring Boot**, **MySQL**, and **RESTful APIs**, while continuously improving my skills.
