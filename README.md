@@ -1,4 +1,4 @@
-# 🌠 Hi, I'm Yusif Hüseynov  
+# 🪐 Hi, I'm Yusif Hüseynov  
 **👨‍💻 Java Developer | Spring Boot | REST APIs ☕**
 
 💻 Passionate about backend development and creating clean, scalable applications using Java and Spring Boot.  
