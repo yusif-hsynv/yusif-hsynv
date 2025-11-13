@@ -23,6 +23,12 @@ Includes user authentication, post management, and comment features.
 
 ---
 
+### 📝 [Task Flow (Spring Boot)](https://github.com/yusif-hsynv/task-flow)
+A simple task management application built with Spring Boot and RESTful APIs.  
+Includes task lists, tasks, CRUD operations, manual DTO–Entity mapping, and layered architecture.
+
+---
+
 ### 🏦 [Bank Demo App](https://github.com/yusif-hsynv/bankdemo)
 A bank demo project built with Spring Boot, MySQL, and token-based authentication.  
 Implements secure user management and transaction logic.
