@@ -9,9 +9,10 @@
 ## 🧰 Tech Stack
 - **Languages:** Java  
 - **Frameworks:** Spring Boot (Web, Data JPA, Security), JUnit 5, Mockito  
-- **Database:** MySQL, H2, Redis  
-- **Build Tool:** Maven, Gradle, Docker
-- **Other:** Lombok, MapStruct, REST API, Postman, Git
+- **Database:** MySQL, H2, Redis
+- **Architecture & Message Brokers:** RESTful APIs, Microservices, RabbitMQ  
+- **Build Tools:** Maven, Gradle, Docker, Git
+- **Other:** Lombok, MapStruct, Postman
 
 ---
 
