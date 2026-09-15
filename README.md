@@ -8,10 +8,10 @@
 
 ## 🧰 Tech Stack
 - **Languages:** Java  
-- **Frameworks:** Spring Boot (Web, Data JPA, Security)  
-- **Database:** MySQL  
-- **Build Tool:** Maven  
-- **Other:** Lombok, REST API, Postman, Git  
+- **Frameworks:** Spring Boot (Web, Data JPA, Security), JUnit 5, Mockito  
+- **Database:** MySQL, H2, Redis  
+- **Build Tool:** Maven, Gradle, Docker
+- **Other:** Lombok, MapStruct, REST API, Postman, Git
 
 ---
 
@@ -32,6 +32,11 @@ Includes task lists, tasks, CRUD operations, manual DTO–Entity mapping, and la
 ### 🏦 [Bank Demo App](https://github.com/yusif-hsynv/bankdemo)
 A bank demo project built with Spring Boot, MySQL, and token-based authentication.  
 Implements secure user management and transaction logic.
+
+---
+
+💻 [Starkbank Application (Spring Boot)](https://github.com/yusif-hsynv/starkbank)  
+A banking simulation API featuring asynchronous money transfers, RabbitMQ message brokering, Redis caching, and global exception handling.
 
 ---
 
