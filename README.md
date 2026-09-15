@@ -35,7 +35,7 @@ Implements secure user management and transaction logic.
 
 ---
 
-💻 [Starkbank Application (Spring Boot)](https://github.com/yusif-hsynv/starkbank)  
+### 💻 [Starkbank Application (Spring Boot)](https://github.com/yusif-hsynv/starkbank)  
 A banking simulation API featuring asynchronous money transfers, RabbitMQ message brokering, Redis caching, and global exception handling.
 
 ---
